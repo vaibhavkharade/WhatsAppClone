@@ -1,4 +1,4 @@
-# WhatsApp
+# WhatsApp UI
 
 A new Flutter project.
 
